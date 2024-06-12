@@ -19,3 +19,6 @@ And here is an ordered list.
 3. Go to post on left
 4. Right click and make a new file with strict date structure.
 5. Copy and paste info at top of Witt's welcome to jekyll markdown
+
+## Adding a pic
+![dog in leaves](https://photos.app.goo.gl/4VvPPjpfEKak1Rvi9)
