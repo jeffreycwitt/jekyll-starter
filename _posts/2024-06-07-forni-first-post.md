@@ -21,4 +21,4 @@ And here is an ordered list.
 5. Copy and paste info at top of Witt's welcome to jekyll markdown
 
 ## Adding a pic
-![dog in leaves](https://photos.app.goo.gl/4VvPPjpfEKak1Rvi9)
+![dog in leaves](https://lh3.googleusercontent.com/pw/AP1GczNjCYPjvKuJ6NYFrMzBvQkLwHjxtqc5NHnuMUndOk9qmtYV7gHcstzuuAQpxGzlxo02D4e1YGcnR3VT7NFonUpaHNq7R288EInoOrmdGJIhb2_Y-lWTKOpaLJK1V4grbbyUKrIWSVhZSw92ra93r3aieA=w1810-h1358-s-no-gm?authuser=0)
