@@ -1,0 +1,17 @@
+### DHSI 2024
+
+The course that I had signed up for called "Stylometry Out of the Box" was cancelled because the instructor became seriously ill after his transatlantic flight.
+So I retook the course that I had attended last year "Introduction to Computation for Literary Studies." This course covers basic textual analysis, stylometrics, story mapping, and networks taught within the context of their uses for literary research and instruction.
+
+Having been previously exposed to some of the material, I was better prepared this time to work on some of my own projects for homework rather than spending time each night trying to replicate and remember the programs that we had learned in class. I was able to create a couple of assignments for my Fall classes.
+
+## EN 101 Voyant Analysis
+
+*Voyant* is a web-based analytical program for digital texts. You upload the text in a .txt file and the program will provide you with a word cloud. The program automatically omits so-called *stop* or *function* words such as *the,* *and,* etc.
+
+
+
+
+
+One of the texts that I will be teaching in EN 101 is Tommy Orange's *There There*, a novel about Native Americans living in Oakland, California. For an essay assignment, I will ask students to upload the text and then 
+
