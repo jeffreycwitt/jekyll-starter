@@ -29,6 +29,9 @@ A second easy-to-use tool is ArcGIS StoryMap. This web-based program can be used
 
 I plan to use this StoryMap with Spiegelman's *Maus* because many students are unaware of where Poland is, let alone how it was split up at the beginning of the Second World War, or where concentration camps were located.
 
+![Maus](https://m.media-amazon.com/images/I/A1pUyqvAOwL._AC_UF1000,1000_QL80_.jpg)
+
+
 I will ask students to highlight all place names as they read. Together we will create a story map in class and I will ask them to annotate each location. Annotating an involve providing both images and brief descriptions. I will then have them work in small groups to create a story map for our second graphic novel, Satrapi's *Persepolis," which takes place in Iran but also has references to Iraq and other places in the Middle East that many students will not be familiar with. 
 
 These exercises are not simply informatative but expose students to basic digital capabilities that employers expect of college graduates, regardless of their major.
