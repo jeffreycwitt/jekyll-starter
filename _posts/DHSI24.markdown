@@ -12,7 +12,8 @@ Having been previously exposed to some of the material, I was better prepared th
 
 One of the texts that I will be teaching in EN 101 is Tommy Orange's *There There*, a novel about Native Americans living in Oakland, California. For an essay assignment, I will ask students to upload the text and then analyze the results of the word cloud.
 
-![Voyant cloud](
+![Voyantcloud](https://photos.app.goo.gl/b9DznfEjUapuK4NGA)
+
 
 
 One sees that the most frequent term is "like." *Voyant* then helpfully provides all the sentences in which the word is used, giving readers easy access to Orange's use of similes. So one assignment question might be, "What kinds of similes does Orange use, and how do these relate to one of the themes in his novel?"
