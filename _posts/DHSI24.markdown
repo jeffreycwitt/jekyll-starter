@@ -1,9 +1,10 @@
 ### DHSI 2024
 
-The course that I had signed up for called "Stylometry Out of the Box" was cancelled because the instructor became seriously ill after his transatlantic flight.
-So I retook the course that I had attended last year "Introduction to Computation for Literary Studies." This course covers basic textual analysis, stylometrics, story mapping, and networks taught within the context of their uses for literary research and instruction.
+The course that I had signed up for called "Stylometry Out of the Box" was cancelled because the instructor became seriously ill after his transatlantic flight. My original project was to use stylometry to compare Chaucer's *Canterbury Tales* with his *Canon Yeoman's Tale,* a tale that is absent from the earliest manuscript of the poem which Chaucer is now believed to have been involved with. At least two leading scholars have suggested that the tale is apocryphal.
 
-Having been previously exposed to some of the material, I was better prepared this time to work on some of my own projects for homework rather than spending time each night trying to replicate and remember the programs that we had learned in class. I was able to create a couple of assignments for my Fall classes.
+I retook instead the course that I had attended last year "Introduction to Computation for Literary Studies." This course covers basic textual analysis, stylometrics, story mapping, and networks taught within the context of their uses for literary research and instruction.
+
+Having been previously exposed to some of the material, I was better prepared this time to work on some of my own projects for homework rather than spending time each night trying to replicate and remember the programs that we had learned in class. Although I was not able to pursue my original research project, I was able to create a couple of assignments for my Fall classes.
 
 ## EN 101 Voyant Analysis
 
@@ -21,5 +22,7 @@ One sees that the most frequent term is "like." *Voyant* then helpfully provides
 The next most common term is "know."  Again, this revelation can both foster class discussion and paper topic prompts, since the novel is concerned with knowledge--of one's identity, one's heritage, one's family--and the leading character who sacrifices himself to protect others appears to have some kind of epiphany in the end as he lay dying. Similar approaches could be used with two other very common words: "mom" and "time."
 
 I would also ask students to experiment with the different features found on the *Voyant* site. *Voyant* offers a number of visualization tools such as links, DreamScape, knots, bubbles, etc. The significance or import of these visual manifestations of the text is not immediately apparent, and I would ask small groups of students to try to explain how these various types of visualization give us different views of the text.
+
+## EN 101 Story Mapping
 
 
