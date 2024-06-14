@@ -12,10 +12,13 @@ Having been previously exposed to some of the material, I was better prepared th
 
 One of the texts that I will be teaching in EN 101 is Tommy Orange's *There There*, a novel about Native Americans living in Oakland, California. For an essay assignment, I will ask students to upload the text and then analyze the results of the word cloud.
 
+![Voyant cloud](
+
+
 One sees that the most frequent term is "like." *Voyant* then helpfully provides all the sentences in which the word is used, giving readers easy access to Orange's use of similes. So one assignment question might be, "What kinds of similes does Orange use, and how do these relate to one of the themes in his novel?"
 
 The next most common term is "know."  Again, this revelation can both foster class discussion and paper topic prompts, since the novel is concerned with knowledge--of one's identity, one's heritage, one's family--and the leading character who sacrifices himself to protect others appears to have some kind of epiphany in the end as he lay dying. Similar approaches could be used with two other very common words: "mom" and "time."
 
-I would also ask students to experiment with the different features found on the *Voyant* site. 
+I would also ask students to experiment with the different features found on the *Voyant* site. *Voyant* offers a number of visualization tools such as links, DreamScape, knots, bubbles, etc. The significance or import of these visual manifestations of the text is not immediately apparent, and I would ask small groups of students to try to explain how these various types of visualization give us different views of the text.
 
 
