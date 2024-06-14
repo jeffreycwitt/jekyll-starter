@@ -4,7 +4,7 @@ The course that I had signed up for called "Stylometry Out of the Box" was cance
 
 I retook instead the course that I had attended last year "Introduction to Computation for Literary Studies." This course covers basic textual analysis, stylometrics, story mapping, and networks taught within the context of their uses for literary research and instruction.
 
-Having been previously exposed to some of the material, I was better prepared this time to work on some of my own projects for homework rather than spending time each night trying to replicate and remember the programs that we had learned in class. Although I was not able to pursue my original research project, I was able to create a couple of assignments for my Fall classes.
+Having been previously exposed to some of the material, I was better prepared this time to work on some of my own projects for homework rather than spending time each night trying to replicate and remember the programs that we had learned in class. Although I was not able to pursue my original research project, I was able to create a couple of assignments for my Fall EN 101 classes. This summer I'll continue to work on a couple of assignments for my upper-division English course "Reinventing the Middle Ages."
 
 ## EN 101 Voyant Analysis
 
