@@ -9,7 +9,6 @@ Having been previously exposed to some of the material, I was better prepared th
 
 *Voyant* is a web-based analytical program for digital texts. You upload the text in a .txt file and the program will provide you with a word cloud. The program automatically omits so-called *stop* or *function* words such as *the,* *and,* *is,* etc.
 
-![voyant](https://voyant-tools.org/?view=Cirrus&corpus=c3a566a5d98b8489f57958949ac6efb6)
 
 One of the texts that I will be teaching in EN 101 is Tommy Orange's *There There*, a novel about Native Americans living in Oakland, California. For an essay assignment, I will ask students to upload the text and then analyze the results of the word cloud.
 
